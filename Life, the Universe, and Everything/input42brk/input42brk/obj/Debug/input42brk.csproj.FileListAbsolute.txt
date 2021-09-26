@@ -1,0 +1,9 @@
+F:\pgrming\C# Programing\prgming\input42brk\input42brk\bin\Debug\input42brk.exe.config
+F:\pgrming\C# Programing\prgming\input42brk\input42brk\bin\Debug\input42brk.exe
+F:\pgrming\C# Programing\prgming\input42brk\input42brk\bin\Debug\input42brk.pdb
+F:\pgrming\C# Programing\prgming\input42brk\input42brk\obj\Debug\input42brk.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\input42brk\input42brk\obj\Debug\input42brk.exe
+F:\pgrming\C# Programing\prgming\input42brk\input42brk\obj\Debug\input42brk.pdb
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\input42brk\input42brk\bin\Debug\input42brk.exe.config
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\input42brk\input42brk\obj\Debug\input42brk.exe
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\input42brk\input42brk\obj\Debug\input42brk.pdb

@@ -1,0 +1,6 @@
+F:\pgrming\C# Programing\prgming\welcome\welcome\bin\Debug\welcome.exe.config
+F:\pgrming\C# Programing\prgming\welcome\welcome\bin\Debug\welcome.exe
+F:\pgrming\C# Programing\prgming\welcome\welcome\bin\Debug\welcome.pdb
+F:\pgrming\C# Programing\prgming\welcome\welcome\obj\Debug\welcome.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\welcome\welcome\obj\Debug\welcome.exe
+F:\pgrming\C# Programing\prgming\welcome\welcome\obj\Debug\welcome.pdb

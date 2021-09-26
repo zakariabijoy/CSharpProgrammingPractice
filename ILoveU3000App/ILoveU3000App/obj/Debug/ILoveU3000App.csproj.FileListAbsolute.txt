@@ -1,0 +1,13 @@
+F:\WEB DEVELOPMENT WITH ASP.NET C# -BITM(BASIS_SEIP)\Projects\ILoveU3000App\ILoveU3000App\bin\Debug\ILoveU3000App.exe.config
+F:\WEB DEVELOPMENT WITH ASP.NET C# -BITM(BASIS_SEIP)\Projects\ILoveU3000App\ILoveU3000App\bin\Debug\ILoveU3000App.exe
+F:\WEB DEVELOPMENT WITH ASP.NET C# -BITM(BASIS_SEIP)\Projects\ILoveU3000App\ILoveU3000App\bin\Debug\ILoveU3000App.pdb
+F:\WEB DEVELOPMENT WITH ASP.NET C# -BITM(BASIS_SEIP)\Projects\ILoveU3000App\ILoveU3000App\obj\Debug\ILoveU3000App.csprojResolveAssemblyReference.cache
+F:\WEB DEVELOPMENT WITH ASP.NET C# -BITM(BASIS_SEIP)\Projects\ILoveU3000App\ILoveU3000App\obj\Debug\ILoveU3000App.exe
+F:\WEB DEVELOPMENT WITH ASP.NET C# -BITM(BASIS_SEIP)\Projects\ILoveU3000App\ILoveU3000App\obj\Debug\ILoveU3000App.pdb
+F:\Programming\C# Programing\prgming\ILoveU3000App\ILoveU3000App\bin\Debug\ILoveU3000App.exe.config
+F:\Programming\C# Programing\prgming\ILoveU3000App\ILoveU3000App\bin\Debug\ILoveU3000App.exe
+F:\Programming\C# Programing\prgming\ILoveU3000App\ILoveU3000App\bin\Debug\ILoveU3000App.pdb
+F:\Programming\C# Programing\prgming\ILoveU3000App\ILoveU3000App\obj\Debug\ILoveU3000App.csprojAssemblyReference.cache
+F:\Programming\C# Programing\prgming\ILoveU3000App\ILoveU3000App\obj\Debug\ILoveU3000App.csproj.CoreCompileInputs.cache
+F:\Programming\C# Programing\prgming\ILoveU3000App\ILoveU3000App\obj\Debug\ILoveU3000App.exe
+F:\Programming\C# Programing\prgming\ILoveU3000App\ILoveU3000App\obj\Debug\ILoveU3000App.pdb

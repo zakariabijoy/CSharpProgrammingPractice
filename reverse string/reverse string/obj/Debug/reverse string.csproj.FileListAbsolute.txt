@@ -1,0 +1,6 @@
+F:\pgrming\C# Programing\prgming\reverse string\reverse string\bin\Debug\reverse string.exe.config
+F:\pgrming\C# Programing\prgming\reverse string\reverse string\bin\Debug\reverse string.exe
+F:\pgrming\C# Programing\prgming\reverse string\reverse string\bin\Debug\reverse string.pdb
+F:\pgrming\C# Programing\prgming\reverse string\reverse string\obj\Debug\reverse string.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\reverse string\reverse string\obj\Debug\reverse string.exe
+F:\pgrming\C# Programing\prgming\reverse string\reverse string\obj\Debug\reverse string.pdb

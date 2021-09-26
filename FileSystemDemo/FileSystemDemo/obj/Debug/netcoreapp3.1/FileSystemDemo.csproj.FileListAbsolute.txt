@@ -1,0 +1,13 @@
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.csprojAssemblyReference.cache
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.AssemblyInfoInputs.cache
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.AssemblyInfo.cs
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.csproj.CoreCompileInputs.cache
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.exe
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.deps.json
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.runtimeconfig.json
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.runtimeconfig.dev.json
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.dll
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\bin\Debug\netcoreapp3.1\FileSystemDemo.pdb
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.dll
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.pdb
+F:\Programming\C# Programing\prgming\FileSystemDemo\FileSystemDemo\obj\Debug\netcoreapp3.1\FileSystemDemo.genruntimeconfig.cache

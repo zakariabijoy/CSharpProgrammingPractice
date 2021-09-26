@@ -1,0 +1,10 @@
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\bin\Debug\DemoLibrary.dll
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\bin\Debug\DemoLibrary.pdb
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\ConsoleUI\obj\Debug\ConsoleUI.pdb

@@ -1,0 +1,6 @@
+F:\pgrming\Microsoft Visual Studio\prgming\2nd class\2nd class\bin\Debug\2nd class.exe.config
+F:\pgrming\Microsoft Visual Studio\prgming\2nd class\2nd class\bin\Debug\2nd class.exe
+F:\pgrming\Microsoft Visual Studio\prgming\2nd class\2nd class\bin\Debug\2nd class.pdb
+F:\pgrming\Microsoft Visual Studio\prgming\2nd class\2nd class\obj\Debug\2nd class.csprojResolveAssemblyReference.cache
+F:\pgrming\Microsoft Visual Studio\prgming\2nd class\2nd class\obj\Debug\2nd class.exe
+F:\pgrming\Microsoft Visual Studio\prgming\2nd class\2nd class\obj\Debug\2nd class.pdb

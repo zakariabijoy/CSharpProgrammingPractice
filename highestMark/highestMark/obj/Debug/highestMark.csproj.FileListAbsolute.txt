@@ -1,0 +1,6 @@
+F:\pgrming\C# Programing\prgming\highestMark\highestMark\bin\Debug\highestMark.exe.config
+F:\pgrming\C# Programing\prgming\highestMark\highestMark\bin\Debug\highestMark.exe
+F:\pgrming\C# Programing\prgming\highestMark\highestMark\bin\Debug\highestMark.pdb
+F:\pgrming\C# Programing\prgming\highestMark\highestMark\obj\Debug\highestMark.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\highestMark\highestMark\obj\Debug\highestMark.exe
+F:\pgrming\C# Programing\prgming\highestMark\highestMark\obj\Debug\highestMark.pdb

@@ -1,0 +1,16 @@
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\bin\Debug\net5.0\DelegatesBasic.exe
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\bin\Debug\net5.0\DelegatesBasic.deps.json
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\bin\Debug\net5.0\DelegatesBasic.runtimeconfig.json
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\bin\Debug\net5.0\DelegatesBasic.runtimeconfig.dev.json
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\bin\Debug\net5.0\DelegatesBasic.dll
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\bin\Debug\net5.0\ref\DelegatesBasic.dll
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\bin\Debug\net5.0\DelegatesBasic.pdb
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\DelegatesBasic.csproj.AssemblyReference.cache
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\DelegatesBasic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\DelegatesBasic.AssemblyInfoInputs.cache
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\DelegatesBasic.AssemblyInfo.cs
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\DelegatesBasic.csproj.CoreCompileInputs.cache
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\DelegatesBasic.dll
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\ref\DelegatesBasic.dll
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\DelegatesBasic.pdb
+F:\Programming\C# Programing\prgming\DelegatesInCSharpDemo\DelegatesDemo-End\DelegatesBasic\obj\Debug\net5.0\DelegatesBasic.genruntimeconfig.cache

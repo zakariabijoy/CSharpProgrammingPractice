@@ -1,0 +1,13 @@
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\obj\Debug\netcoreapp3.1\changeCaseAndReverse.csprojAssemblyReference.cache
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\obj\Debug\netcoreapp3.1\changeCaseAndReverse.AssemblyInfoInputs.cache
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\obj\Debug\netcoreapp3.1\changeCaseAndReverse.AssemblyInfo.cs
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\obj\Debug\netcoreapp3.1\changeCaseAndReverse.csproj.CoreCompileInputs.cache
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\bin\Debug\netcoreapp3.1\changeCaseAndReverse.exe
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\bin\Debug\netcoreapp3.1\changeCaseAndReverse.deps.json
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\bin\Debug\netcoreapp3.1\changeCaseAndReverse.runtimeconfig.json
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\bin\Debug\netcoreapp3.1\changeCaseAndReverse.runtimeconfig.dev.json
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\bin\Debug\netcoreapp3.1\changeCaseAndReverse.dll
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\bin\Debug\netcoreapp3.1\changeCaseAndReverse.pdb
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\obj\Debug\netcoreapp3.1\changeCaseAndReverse.dll
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\obj\Debug\netcoreapp3.1\changeCaseAndReverse.pdb
+F:\Programming\C# Programing\prgming\changeCaseAndReverse\changeCaseAndReverse\obj\Debug\netcoreapp3.1\changeCaseAndReverse.genruntimeconfig.cache

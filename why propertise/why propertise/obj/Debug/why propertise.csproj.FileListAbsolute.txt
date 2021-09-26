@@ -1,0 +1,6 @@
+F:\pgrming\C# Programing\prgming\why propertise\why propertise\bin\Debug\why propertise.exe.config
+F:\pgrming\C# Programing\prgming\why propertise\why propertise\bin\Debug\why propertise.exe
+F:\pgrming\C# Programing\prgming\why propertise\why propertise\bin\Debug\why propertise.pdb
+F:\pgrming\C# Programing\prgming\why propertise\why propertise\obj\Debug\why propertise.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\why propertise\why propertise\obj\Debug\why propertise.exe
+F:\pgrming\C# Programing\prgming\why propertise\why propertise\obj\Debug\why propertise.pdb

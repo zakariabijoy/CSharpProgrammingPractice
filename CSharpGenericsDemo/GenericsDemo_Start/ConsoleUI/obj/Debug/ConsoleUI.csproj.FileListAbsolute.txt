@@ -1,0 +1,7 @@
+C:\Users\Zakaria\Downloads\Compressed\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Zakaria\Downloads\Compressed\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Zakaria\Downloads\Compressed\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Zakaria\Downloads\Compressed\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Zakaria\Downloads\Compressed\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\Downloads\Compressed\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Zakaria\Downloads\Compressed\CSharpGenericsDemo\GenericsDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.pdb

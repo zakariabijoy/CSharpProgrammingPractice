@@ -1,0 +1,6 @@
+F:\pgrming\C# Programing\prgming\check even or odd number without using modulus\check even or odd number without using modulus\bin\Debug\check even or odd number without using modulus.exe.config
+F:\pgrming\C# Programing\prgming\check even or odd number without using modulus\check even or odd number without using modulus\bin\Debug\check even or odd number without using modulus.exe
+F:\pgrming\C# Programing\prgming\check even or odd number without using modulus\check even or odd number without using modulus\bin\Debug\check even or odd number without using modulus.pdb
+F:\pgrming\C# Programing\prgming\check even or odd number without using modulus\check even or odd number without using modulus\obj\Debug\check even or odd number without using modulus.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\check even or odd number without using modulus\check even or odd number without using modulus\obj\Debug\check even or odd number without using modulus.exe
+F:\pgrming\C# Programing\prgming\check even or odd number without using modulus\check even or odd number without using modulus\obj\Debug\check even or odd number without using modulus.pdb

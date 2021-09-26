@@ -1,0 +1,10 @@
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\Zakaria\Downloads\Compressed\DRYDemo\DRYDemo-Start\WinFormUI\obj\Debug\WinFormUI.pdb

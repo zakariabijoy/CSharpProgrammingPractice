@@ -1,0 +1,9 @@
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.deps.json
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.pdb
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.AssemblyReference.cache
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfo.cs
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\Zakaria\Downloads\Compressed\EFDemoApp\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.pdb

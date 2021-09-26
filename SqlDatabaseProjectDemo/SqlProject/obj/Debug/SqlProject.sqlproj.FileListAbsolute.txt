@@ -1,0 +1,6 @@
+C:\Users\Zakaria\Downloads\Compressed\SqlDatabaseProjectDemo\SqlProject\bin\Debug\SqlProject.dacpac
+C:\Users\Zakaria\Downloads\Compressed\SqlDatabaseProjectDemo\SqlProject\bin\Debug\SqlProject.dll
+C:\Users\Zakaria\Downloads\Compressed\SqlDatabaseProjectDemo\SqlProject\bin\Debug\SqlProject.pdb
+C:\Users\Zakaria\Downloads\Compressed\SqlDatabaseProjectDemo\SqlProject\obj\Debug\SqlProject.sqlproj.AssemblyReference.cache
+C:\Users\Zakaria\Downloads\Compressed\SqlDatabaseProjectDemo\SqlProject\obj\Debug\SqlProject.dll
+C:\Users\Zakaria\Downloads\Compressed\SqlDatabaseProjectDemo\SqlProject\obj\Debug\SqlProject.pdb

@@ -1,0 +1,6 @@
+c:\users\bijoy\documents\visual studio 2013\Projects\7th class\7th class\bin\Debug\7th class.exe.config
+c:\users\bijoy\documents\visual studio 2013\Projects\7th class\7th class\obj\Debug\7th class.csprojResolveAssemblyReference.cache
+c:\users\bijoy\documents\visual studio 2013\Projects\7th class\7th class\bin\Debug\7th class.exe
+c:\users\bijoy\documents\visual studio 2013\Projects\7th class\7th class\bin\Debug\7th class.pdb
+c:\users\bijoy\documents\visual studio 2013\Projects\7th class\7th class\obj\Debug\7th class.exe
+c:\users\bijoy\documents\visual studio 2013\Projects\7th class\7th class\obj\Debug\7th class.pdb

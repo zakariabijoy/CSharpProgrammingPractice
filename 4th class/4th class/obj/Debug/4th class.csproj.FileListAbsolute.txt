@@ -1,0 +1,6 @@
+F:\pgrming\Microsoft Visual Studio\prgming\4th class\4th class\bin\Debug\4th class.exe.config
+F:\pgrming\Microsoft Visual Studio\prgming\4th class\4th class\bin\Debug\4th class.exe
+F:\pgrming\Microsoft Visual Studio\prgming\4th class\4th class\bin\Debug\4th class.pdb
+F:\pgrming\Microsoft Visual Studio\prgming\4th class\4th class\obj\Debug\4th class.csprojResolveAssemblyReference.cache
+F:\pgrming\Microsoft Visual Studio\prgming\4th class\4th class\obj\Debug\4th class.exe
+F:\pgrming\Microsoft Visual Studio\prgming\4th class\4th class\obj\Debug\4th class.pdb

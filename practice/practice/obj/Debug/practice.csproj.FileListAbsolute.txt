@@ -1,0 +1,5 @@
+F:\pgrming\C# Programing\prgming\practice\practice\bin\Debug\practice.exe.config
+F:\pgrming\C# Programing\prgming\practice\practice\bin\Debug\practice.exe
+F:\pgrming\C# Programing\prgming\practice\practice\bin\Debug\practice.pdb
+F:\pgrming\C# Programing\prgming\practice\practice\obj\Debug\practice.exe
+F:\pgrming\C# Programing\prgming\practice\practice\obj\Debug\practice.pdb

@@ -1,0 +1,10 @@
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\bin\Debug\DapperDB.dacpac
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\bin\Debug\DapperDB.dll
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\bin\Debug\DapperDB.pdb
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\obj\Debug\DapperDB.sqlproj.AssemblyReference.cache
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\obj\Debug\Model.xml
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\obj\Debug\refactor.xml
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\obj\Debug\postdeploy.sql
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\obj\Debug\predeploy.sql
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\obj\Debug\DapperDB.dll
+C:\Users\Zakaria\Downloads\Compressed\AdvancedDapper\DapperDB\obj\Debug\DapperDB.pdb

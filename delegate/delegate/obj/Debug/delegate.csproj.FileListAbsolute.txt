@@ -1,0 +1,6 @@
+F:\pgrming\C# Programing\prgming\delegate\delegate\bin\Debug\@delegate.exe.config
+F:\pgrming\C# Programing\prgming\delegate\delegate\bin\Debug\@delegate.exe
+F:\pgrming\C# Programing\prgming\delegate\delegate\bin\Debug\@delegate.pdb
+F:\pgrming\C# Programing\prgming\delegate\delegate\obj\Debug\delegate.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\delegate\delegate\obj\Debug\@delegate.exe
+F:\pgrming\C# Programing\prgming\delegate\delegate\obj\Debug\@delegate.pdb

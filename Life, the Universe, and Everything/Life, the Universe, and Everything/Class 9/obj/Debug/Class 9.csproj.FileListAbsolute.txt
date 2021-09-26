@@ -1,0 +1,24 @@
+c:\users\bijoy\documents\visual studio 2013\Projects\Class 9\Class 9\bin\Debug\Class 9.exe.config
+C:\Users\BiJoY\documents\visual studio 2013\Projects\Class 9\Class 9\obj\Debug\Class 9.csprojResolveAssemblyReference.cache
+C:\Users\BiJoY\documents\visual studio 2013\Projects\Class 9\Class 9\bin\Debug\Class 9.exe
+C:\Users\BiJoY\documents\visual studio 2013\Projects\Class 9\Class 9\bin\Debug\Class 9.pdb
+C:\Users\BiJoY\documents\visual studio 2013\Projects\Class 9\Class 9\obj\Debug\Class 9.exe
+C:\Users\BiJoY\documents\visual studio 2013\Projects\Class 9\Class 9\obj\Debug\Class 9.pdb
+F:\pgrming\C# Programing\prgming\practice 2\Class 9\bin\Debug\Class 9.exe.config
+F:\pgrming\C# Programing\prgming\practice 2\Class 9\obj\Debug\Class 9.exe
+F:\pgrming\C# Programing\prgming\practice 2\Class 9\obj\Debug\Class 9.pdb
+F:\pgrming\C# Programing\prgming\practice 2\Class 9\obj\Debug\Class 9.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\practice 2\Class 9\bin\Debug\Class 9.exe
+F:\pgrming\C# Programing\prgming\practice 2\Class 9\bin\Debug\Class 9.pdb
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\after inputing 42 full pgrm brk\Class 9\bin\Debug\Class 9.exe.config
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\after inputing 42 full pgrm brk\Class 9\obj\Debug\Class 9.exe
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\after inputing 42 full pgrm brk\Class 9\obj\Debug\Class 9.pdb
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\after inputing 42 full pgrm brk\Class 9\obj\Debug\Class 9.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\after inputing 42 full pgrm brk\Class 9\bin\Debug\Class 9.exe
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\after inputing 42 full pgrm brk\Class 9\bin\Debug\Class 9.pdb
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\Life, the Universe, and Everything\Class 9\bin\Debug\Class 9.exe.config
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\Life, the Universe, and Everything\Class 9\obj\Debug\Class 9.exe
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\Life, the Universe, and Everything\Class 9\obj\Debug\Class 9.pdb
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\Life, the Universe, and Everything\Class 9\obj\Debug\Class 9.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\Life, the Universe, and Everything\Class 9\bin\Debug\Class 9.exe
+F:\pgrming\C# Programing\prgming\Life, the Universe, and Everything\Life, the Universe, and Everything\Class 9\bin\Debug\Class 9.pdb

@@ -1,0 +1,6 @@
+F:\pgrming\Microsoft Visual Studio\prgming\class 3\class 3\bin\Debug\class 3.exe.config
+F:\pgrming\Microsoft Visual Studio\prgming\class 3\class 3\bin\Debug\class 3.exe
+F:\pgrming\Microsoft Visual Studio\prgming\class 3\class 3\bin\Debug\class 3.pdb
+F:\pgrming\Microsoft Visual Studio\prgming\class 3\class 3\obj\Debug\class 3.csprojResolveAssemblyReference.cache
+F:\pgrming\Microsoft Visual Studio\prgming\class 3\class 3\obj\Debug\class 3.exe
+F:\pgrming\Microsoft Visual Studio\prgming\class 3\class 3\obj\Debug\class 3.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "input42brk", "input42brk\input42brk.csproj", "{404CE49D-6FA4-4DED-97BA-AC3CBBC9F4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404CE49D-6FA4-4DED-97BA-AC3CBBC9F4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404CE49D-6FA4-4DED-97BA-AC3CBBC9F4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404CE49D-6FA4-4DED-97BA-AC3CBBC9F4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404CE49D-6FA4-4DED-97BA-AC3CBBC9F4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

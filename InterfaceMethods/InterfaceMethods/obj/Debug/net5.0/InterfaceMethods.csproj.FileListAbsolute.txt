@@ -1,0 +1,16 @@
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\bin\Debug\net5.0\InterfaceMethods.exe
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\bin\Debug\net5.0\InterfaceMethods.deps.json
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\bin\Debug\net5.0\InterfaceMethods.runtimeconfig.json
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\bin\Debug\net5.0\InterfaceMethods.runtimeconfig.dev.json
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\bin\Debug\net5.0\InterfaceMethods.dll
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\bin\Debug\net5.0\ref\InterfaceMethods.dll
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\bin\Debug\net5.0\InterfaceMethods.pdb
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\InterfaceMethods.csproj.AssemblyReference.cache
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\InterfaceMethods.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\InterfaceMethods.AssemblyInfoInputs.cache
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\InterfaceMethods.AssemblyInfo.cs
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\InterfaceMethods.csproj.CoreCompileInputs.cache
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\InterfaceMethods.dll
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\ref\InterfaceMethods.dll
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\InterfaceMethods.pdb
+F:\Programming\C# Programing\prgming\InterfaceMethods\InterfaceMethods\obj\Debug\net5.0\InterfaceMethods.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+F:\pgrming\Microsoft Visual Studio\prgming\class six\class six\bin\Debug\class six.exe.config
+F:\pgrming\Microsoft Visual Studio\prgming\class six\class six\obj\Debug\class six.csprojResolveAssemblyReference.cache
+F:\pgrming\Microsoft Visual Studio\prgming\class six\class six\bin\Debug\class six.exe
+F:\pgrming\Microsoft Visual Studio\prgming\class six\class six\bin\Debug\class six.pdb
+F:\pgrming\Microsoft Visual Studio\prgming\class six\class six\obj\Debug\class six.exe
+F:\pgrming\Microsoft Visual Studio\prgming\class six\class six\obj\Debug\class six.pdb

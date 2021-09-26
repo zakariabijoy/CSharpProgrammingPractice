@@ -1,0 +1,9 @@
+F:\pgrming\Microsoft Visual Studio\prgming\1st  class\1st  class\bin\Debug\1st  class.exe.config
+F:\pgrming\Microsoft Visual Studio\prgming\1st  class\1st  class\obj\Debug\1st  class.csprojResolveAssemblyReference.cache
+F:\pgrming\Microsoft Visual Studio\prgming\1st  class\1st  class\bin\Debug\1st  class.exe
+F:\pgrming\Microsoft Visual Studio\prgming\1st  class\1st  class\bin\Debug\1st  class.pdb
+F:\pgrming\Microsoft Visual Studio\prgming\1st  class\1st  class\obj\Debug\1st  class.exe
+F:\pgrming\Microsoft Visual Studio\prgming\1st  class\1st  class\obj\Debug\1st  class.pdb
+F:\pgrming\C# Programing\prgming\1st  class\1st  class\bin\Debug\1st  class.exe.config
+F:\pgrming\C# Programing\prgming\1st  class\1st  class\obj\Debug\1st  class.exe
+F:\pgrming\C# Programing\prgming\1st  class\1st  class\obj\Debug\1st  class.pdb

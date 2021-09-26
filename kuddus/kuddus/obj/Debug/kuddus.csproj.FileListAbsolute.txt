@@ -1,0 +1,6 @@
+F:\pgrming\C# Programing\prgming\kuddus\kuddus\bin\Debug\kuddus.exe.config
+F:\pgrming\C# Programing\prgming\kuddus\kuddus\bin\Debug\kuddus.exe
+F:\pgrming\C# Programing\prgming\kuddus\kuddus\bin\Debug\kuddus.pdb
+F:\pgrming\C# Programing\prgming\kuddus\kuddus\obj\Debug\kuddus.csprojResolveAssemblyReference.cache
+F:\pgrming\C# Programing\prgming\kuddus\kuddus\obj\Debug\kuddus.exe
+F:\pgrming\C# Programing\prgming\kuddus\kuddus\obj\Debug\kuddus.pdb

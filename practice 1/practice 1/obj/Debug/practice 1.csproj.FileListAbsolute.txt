@@ -1,0 +1,9 @@
+F:\pgrming\Microsoft Visual Studio\prgming\practice 1\practice 1\bin\Debug\practice 1.exe.config
+F:\pgrming\Microsoft Visual Studio\prgming\practice 1\practice 1\bin\Debug\practice 1.exe
+F:\pgrming\Microsoft Visual Studio\prgming\practice 1\practice 1\bin\Debug\practice 1.pdb
+F:\pgrming\Microsoft Visual Studio\prgming\practice 1\practice 1\obj\Debug\practice 1.csprojResolveAssemblyReference.cache
+F:\pgrming\Microsoft Visual Studio\prgming\practice 1\practice 1\obj\Debug\practice 1.exe
+F:\pgrming\Microsoft Visual Studio\prgming\practice 1\practice 1\obj\Debug\practice 1.pdb
+F:\pgrming\C# Programing\prgming\practice 1\practice 1\bin\Debug\practice 1.exe.config
+F:\pgrming\C# Programing\prgming\practice 1\practice 1\obj\Debug\practice 1.exe
+F:\pgrming\C# Programing\prgming\practice 1\practice 1\obj\Debug\practice 1.pdb

@@ -1,0 +1,16 @@
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\bin\Debug\net5.0\DesigningAShoppingCart(oop).exe
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\bin\Debug\net5.0\DesigningAShoppingCart(oop).deps.json
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\bin\Debug\net5.0\DesigningAShoppingCart(oop).runtimeconfig.json
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\bin\Debug\net5.0\DesigningAShoppingCart(oop).runtimeconfig.dev.json
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\bin\Debug\net5.0\DesigningAShoppingCart(oop).dll
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\bin\Debug\net5.0\ref\DesigningAShoppingCart(oop).dll
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\bin\Debug\net5.0\DesigningAShoppingCart(oop).pdb
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\DesigningAShoppingCart(oop).csproj.AssemblyReference.cache
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\DesigningAShoppingCart(oop).GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\DesigningAShoppingCart(oop).AssemblyInfoInputs.cache
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\DesigningAShoppingCart(oop).AssemblyInfo.cs
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\DesigningAShoppingCart(oop).csproj.CoreCompileInputs.cache
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\DesigningAShoppingCart(oop).dll
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\ref\DesigningAShoppingCart(oop).dll
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\DesigningAShoppingCart(oop).pdb
+F:\Programming\C# Programing\Programming\DesigningAShoppingCart(oop)\DesigningAShoppingCart(oop)\obj\Debug\net5.0\DesigningAShoppingCart(oop).genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\bin\Debug\net5.0\ExtenstionMethod.exe
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\bin\Debug\net5.0\ExtenstionMethod.deps.json
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\bin\Debug\net5.0\ExtenstionMethod.runtimeconfig.json
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\bin\Debug\net5.0\ExtenstionMethod.runtimeconfig.dev.json
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\bin\Debug\net5.0\ExtenstionMethod.dll
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\bin\Debug\net5.0\ref\ExtenstionMethod.dll
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\bin\Debug\net5.0\ExtenstionMethod.pdb
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ExtenstionMethod.csproj.AssemblyReference.cache
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ExtenstionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ExtenstionMethod.AssemblyInfoInputs.cache
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ExtenstionMethod.AssemblyInfo.cs
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ExtenstionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ExtenstionMethod.dll
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ref\ExtenstionMethod.dll
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ExtenstionMethod.pdb
+C:\Users\Zakaria\source\repos\ExtenstionMethod\ExtenstionMethod\obj\Debug\net5.0\ExtenstionMethod.genruntimeconfig.cache

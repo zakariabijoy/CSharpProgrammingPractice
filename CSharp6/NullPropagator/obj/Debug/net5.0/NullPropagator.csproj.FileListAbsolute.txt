@@ -1,0 +1,16 @@
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\bin\Debug\net5.0\NullPropagator.exe
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\bin\Debug\net5.0\NullPropagator.deps.json
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\bin\Debug\net5.0\NullPropagator.runtimeconfig.json
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\bin\Debug\net5.0\NullPropagator.runtimeconfig.dev.json
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\bin\Debug\net5.0\NullPropagator.dll
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\bin\Debug\net5.0\ref\NullPropagator.dll
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\bin\Debug\net5.0\NullPropagator.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\NullPropagator.csproj.AssemblyReference.cache
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\NullPropagator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\NullPropagator.AssemblyInfoInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\NullPropagator.AssemblyInfo.cs
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\NullPropagator.csproj.CoreCompileInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\NullPropagator.dll
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\ref\NullPropagator.dll
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\NullPropagator.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp6\NullPropagator\obj\Debug\net5.0\NullPropagator.genruntimeconfig.cache

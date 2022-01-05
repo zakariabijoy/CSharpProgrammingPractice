@@ -1,0 +1,16 @@
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\bin\Debug\net5.0\mocktestEvents.exe
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\bin\Debug\net5.0\mocktestEvents.deps.json
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\bin\Debug\net5.0\mocktestEvents.runtimeconfig.json
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\bin\Debug\net5.0\mocktestEvents.runtimeconfig.dev.json
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\bin\Debug\net5.0\mocktestEvents.dll
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\bin\Debug\net5.0\ref\mocktestEvents.dll
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\bin\Debug\net5.0\mocktestEvents.pdb
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\mocktestEvents.csproj.AssemblyReference.cache
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\mocktestEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\mocktestEvents.AssemblyInfoInputs.cache
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\mocktestEvents.AssemblyInfo.cs
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\mocktestEvents.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\mocktestEvents.dll
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\ref\mocktestEvents.dll
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\mocktestEvents.pdb
+C:\Users\Zakaria\source\repos\mocktestEvents\mocktestEvents\obj\Debug\net5.0\mocktestEvents.genruntimeconfig.cache

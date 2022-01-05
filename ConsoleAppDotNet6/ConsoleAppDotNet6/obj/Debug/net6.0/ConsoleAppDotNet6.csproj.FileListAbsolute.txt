@@ -1,0 +1,15 @@
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.csproj.AssemblyReference.cache
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.AssemblyInfoInputs.cache
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.AssemblyInfo.cs
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.csproj.CoreCompileInputs.cache
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.exe
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.deps.json
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.runtimeconfig.json
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.dll
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\bin\Debug\net6.0\ref\ConsoleAppDotNet6.dll
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\bin\Debug\net6.0\ConsoleAppDotNet6.pdb
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.dll
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ref\ConsoleAppDotNet6.dll
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.pdb
+D:\Self\Programming\C# Programing\Programming\ConsoleAppDotNet6\ConsoleAppDotNet6\obj\Debug\net6.0\ConsoleAppDotNet6.genruntimeconfig.cache

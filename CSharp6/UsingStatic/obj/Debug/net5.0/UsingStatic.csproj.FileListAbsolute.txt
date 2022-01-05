@@ -1,0 +1,16 @@
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\bin\Debug\net5.0\UsingStatic.exe
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\bin\Debug\net5.0\UsingStatic.deps.json
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\bin\Debug\net5.0\UsingStatic.runtimeconfig.json
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\bin\Debug\net5.0\UsingStatic.runtimeconfig.dev.json
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\bin\Debug\net5.0\UsingStatic.dll
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\bin\Debug\net5.0\ref\UsingStatic.dll
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\bin\Debug\net5.0\UsingStatic.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\UsingStatic.csproj.AssemblyReference.cache
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\UsingStatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\UsingStatic.AssemblyInfoInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\UsingStatic.AssemblyInfo.cs
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\UsingStatic.csproj.CoreCompileInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\UsingStatic.dll
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\ref\UsingStatic.dll
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\UsingStatic.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp6\UsingStatic\obj\Debug\net5.0\UsingStatic.genruntimeconfig.cache

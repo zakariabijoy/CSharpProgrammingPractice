@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b693f80b-d14e-42da-b98e-40d392378f1c": {
+      "ProjectGuid": "b693f80b-d14e-42da-b98e-40d392378f1c",
+      "DisplayName": "ConsoleAppDotNet6",
+      "ColorIndex": 0
+    },
+    "cdc8afe9-2808-4eee-af5c-4d5b2f65728f": {
+      "ProjectGuid": "cdc8afe9-2808-4eee-af5c-4d5b2f65728f",
+      "DisplayName": "WebApiDotNet6",
+      "ColorIndex": 1
+    },
+    "1de2b05b-f185-4eeb-866d-292649f046a6": {
+      "ProjectGuid": "1de2b05b-f185-4eeb-866d-292649f046a6",
+      "DisplayName": "MVCDotNet6",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

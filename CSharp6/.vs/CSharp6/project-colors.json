@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52334670-a509-4364-af7b-d95b7d9a844f": {
+      "ProjectGuid": "52334670-a509-4364-af7b-d95b7d9a844f",
+      "DisplayName": "CSharp6",
+      "ColorIndex": 0
+    },
+    "4890b2ca-5fa1-44f3-b187-3ecd6e2691b5": {
+      "ProjectGuid": "4890b2ca-5fa1-44f3-b187-3ecd6e2691b5",
+      "DisplayName": "UsingStatic",
+      "ColorIndex": 1
+    },
+    "fca8de3b-d6ad-4315-993f-799397ce9d04": {
+      "ProjectGuid": "fca8de3b-d6ad-4315-993f-799397ce9d04",
+      "DisplayName": "StaticImports",
+      "ColorIndex": 2
+    },
+    "f85d600e-0952-4621-8ca5-57e1aa3dba65": {
+      "ProjectGuid": "f85d600e-0952-4621-8ca5-57e1aa3dba65",
+      "DisplayName": "AutoPropertyInitializer",
+      "ColorIndex": 3
+    },
+    "08d09f9f-4d21-49fb-9cb1-b0ab08b12606": {
+      "ProjectGuid": "08d09f9f-4d21-49fb-9cb1-b0ab08b12606",
+      "DisplayName": "IndexInitializer",
+      "ColorIndex": 4
+    },
+    "ec9974bf-dce8-4765-9e14-923ba5a1966a": {
+      "ProjectGuid": "ec9974bf-dce8-4765-9e14-923ba5a1966a",
+      "DisplayName": "StringInterpolation",
+      "ColorIndex": 5
+    },
+    "5074c672-0466-4fe3-99cd-64f457ce61e0": {
+      "ProjectGuid": "5074c672-0466-4fe3-99cd-64f457ce61e0",
+      "DisplayName": "ExpressionBodiedMembers",
+      "ColorIndex": 6
+    },
+    "116cf390-ecb5-4297-beb0-4ba0b78c4f6b": {
+      "ProjectGuid": "116cf390-ecb5-4297-beb0-4ba0b78c4f6b",
+      "DisplayName": "Exceptionfilters",
+      "ColorIndex": 7
+    },
+    "577b0ca3-435d-4ae6-a0d1-3b198627fbd7": {
+      "ProjectGuid": "577b0ca3-435d-4ae6-a0d1-3b198627fbd7",
+      "DisplayName": "NullPropagator",
+      "ColorIndex": 8
+    },
+    "bac369b2-40ef-4e04-a9c7-026d384b63cc": {
+      "ProjectGuid": "bac369b2-40ef-4e04-a9c7-026d384b63cc",
+      "DisplayName": "nameofOperator",
+      "ColorIndex": 9
+    },
+    "29da6c29-3394-41bd-9090-19e121aaf0b6": {
+      "ProjectGuid": "29da6c29-3394-41bd-9090-19e121aaf0b6",
+      "DisplayName": "AwaitInCatchOrFinallyBlocks",
+      "ColorIndex": 10
+    },
+    "dcf5ed6e-0d6a-4703-a00d-aaee2c6612f1": {
+      "ProjectGuid": "dcf5ed6e-0d6a-4703-a00d-aaee2c6612f1",
+      "DisplayName": "DefaultValuesForGetterOnlyProperties",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

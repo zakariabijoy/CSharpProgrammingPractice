@@ -1,0 +1,16 @@
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\bin\Debug\net5.0\DefaultInterfaceMethods.exe
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\bin\Debug\net5.0\DefaultInterfaceMethods.deps.json
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\bin\Debug\net5.0\DefaultInterfaceMethods.runtimeconfig.json
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\bin\Debug\net5.0\DefaultInterfaceMethods.runtimeconfig.dev.json
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\bin\Debug\net5.0\DefaultInterfaceMethods.dll
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\bin\Debug\net5.0\ref\DefaultInterfaceMethods.dll
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\bin\Debug\net5.0\DefaultInterfaceMethods.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\DefaultInterfaceMethods.csproj.AssemblyReference.cache
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\DefaultInterfaceMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\DefaultInterfaceMethods.AssemblyInfoInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\DefaultInterfaceMethods.AssemblyInfo.cs
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\DefaultInterfaceMethods.csproj.CoreCompileInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\DefaultInterfaceMethods.dll
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\ref\DefaultInterfaceMethods.dll
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\DefaultInterfaceMethods.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp8\DefaultInterfaceMethods\obj\Debug\net5.0\DefaultInterfaceMethods.genruntimeconfig.cache

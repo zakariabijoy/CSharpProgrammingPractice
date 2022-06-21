@@ -1,0 +1,12 @@
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\bin\Debug\net6.0\ref\DemoLibrary.dll
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+D:\Self\Programming\C# Programing\Programming\MediatRDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache

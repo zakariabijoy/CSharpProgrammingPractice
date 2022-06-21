@@ -1,0 +1,16 @@
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\bin\Debug\net5.0\OutVariables_V7.0.exe
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\bin\Debug\net5.0\OutVariables_V7.0.deps.json
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\bin\Debug\net5.0\OutVariables_V7.0.runtimeconfig.json
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\bin\Debug\net5.0\OutVariables_V7.0.runtimeconfig.dev.json
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\bin\Debug\net5.0\OutVariables_V7.0.dll
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\bin\Debug\net5.0\ref\OutVariables_V7.0.dll
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\bin\Debug\net5.0\OutVariables_V7.0.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\OutVariables_V7.0.csproj.AssemblyReference.cache
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\OutVariables_V7.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\OutVariables_V7.0.AssemblyInfoInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\OutVariables_V7.0.AssemblyInfo.cs
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\OutVariables_V7.0.csproj.CoreCompileInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\OutVariables_V7.0.dll
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\ref\OutVariables_V7.0.dll
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\OutVariables_V7.0.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp7\OutVariables(csharp7.0)\obj\Debug\net5.0\OutVariables_V7.0.genruntimeconfig.cache

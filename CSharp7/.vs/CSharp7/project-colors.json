@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5635380-d198-49f0-8651-2290280c0de4": {
+      "ProjectGuid": "e5635380-d198-49f0-8651-2290280c0de4",
+      "DisplayName": "OutVariables_V7.0",
+      "ColorIndex": 0
+    },
+    "9cddfcc2-cb7f-4070-a0b1-95e6d33bcc6b": {
+      "ProjectGuid": "9cddfcc2-cb7f-4070-a0b1-95e6d33bcc6b",
+      "DisplayName": "PatternMatching_csharp_v7.0",
+      "ColorIndex": 1
+    },
+    "bcc756c1-e5cf-47ea-bf8c-4f3a42749ef4": {
+      "ProjectGuid": "bcc756c1-e5cf-47ea-bf8c-4f3a42749ef4",
+      "DisplayName": "ThrowExpressions_v7.0",
+      "ColorIndex": 2
+    },
+    "b96c0c03-d1e4-405b-adfb-b21ecb8c5c21": {
+      "ProjectGuid": "b96c0c03-d1e4-405b-adfb-b21ecb8c5c21",
+      "DisplayName": "TuplesAndDeconstruction_csharp_v7.0",
+      "ColorIndex": 3
+    },
+    "347aeeb0-32b1-4cd2-b14f-ebd087462164": {
+      "ProjectGuid": "347aeeb0-32b1-4cd2-b14f-ebd087462164",
+      "DisplayName": "LocalFunctions_v7.0",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

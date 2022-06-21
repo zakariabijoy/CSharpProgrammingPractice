@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07d56e19-23a8-41ba-9ce7-9010bd484457": {
+      "ProjectGuid": "07d56e19-23a8-41ba-9ce7-9010bd484457",
+      "DisplayName": "Read-OnlyStructMembers",
+      "ColorIndex": 0
+    },
+    "2a0e5acf-68a7-464e-a2b2-7245c218f0d3": {
+      "ProjectGuid": "2a0e5acf-68a7-464e-a2b2-7245c218f0d3",
+      "DisplayName": "DefaultInterfaceMethods",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

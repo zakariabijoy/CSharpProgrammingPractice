@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Programming\\C# Programing\\prgming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj": {}
+    "D:\\Self\\Programming\\C# Programing\\Programming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj": {}
   },
   "projects": {
-    "F:\\Programming\\C# Programing\\prgming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj": {
+    "D:\\Self\\Programming\\C# Programing\\Programming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programming\\C# Programing\\prgming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj",
+        "projectUniqueName": "D:\\Self\\Programming\\C# Programing\\Programming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj",
         "projectName": "WebsiteStatus",
-        "projectPath": "F:\\Programming\\C# Programing\\prgming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj",
-        "packagesPath": "C:\\Users\\Zakaria\\.nuget\\packages\\",
-        "outputPath": "F:\\Programming\\C# Programing\\prgming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\obj\\",
+        "projectPath": "D:\\Self\\Programming\\C# Programing\\Programming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\WebsiteStatus.csproj",
+        "packagesPath": "C:\\Users\\zakar\\.nuget\\packages\\",
+        "outputPath": "D:\\Self\\Programming\\C# Programing\\Programming\\WorkerServiceDemo-WebsiteStatusApp\\WebsiteStatus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Zakaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zakar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

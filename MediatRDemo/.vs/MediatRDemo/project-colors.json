@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66bdafdb-8a67-4768-865f-c3acd38c6a97": {
+      "ProjectGuid": "66bdafdb-8a67-4768-865f-c3acd38c6a97",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 0
+    },
+    "f20b2fc2-a0ba-4ace-aef7-e58582790bd5": {
+      "ProjectGuid": "f20b2fc2-a0ba-4ace-aef7-e58582790bd5",
+      "DisplayName": "Api",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

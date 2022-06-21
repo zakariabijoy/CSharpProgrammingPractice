@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tuples_csharp_v7.0/1.0.0": {
+        "runtime": {
+          "Tuples_csharp_v7.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tuples_csharp_v7.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

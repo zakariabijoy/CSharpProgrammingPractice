@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GetEnvFromDocker": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

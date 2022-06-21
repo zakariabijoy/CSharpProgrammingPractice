@@ -1,0 +1,16 @@
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\bin\Debug\net5.0\Read-OnlyStructMembers.exe
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\bin\Debug\net5.0\Read-OnlyStructMembers.deps.json
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\bin\Debug\net5.0\Read-OnlyStructMembers.runtimeconfig.json
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\bin\Debug\net5.0\Read-OnlyStructMembers.runtimeconfig.dev.json
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\bin\Debug\net5.0\Read-OnlyStructMembers.dll
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\bin\Debug\net5.0\ref\Read-OnlyStructMembers.dll
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\bin\Debug\net5.0\Read-OnlyStructMembers.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\Read-OnlyStructMembers.csproj.AssemblyReference.cache
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\Read-OnlyStructMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\Read-OnlyStructMembers.AssemblyInfoInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\Read-OnlyStructMembers.AssemblyInfo.cs
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\Read-OnlyStructMembers.csproj.CoreCompileInputs.cache
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\Read-OnlyStructMembers.dll
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\ref\Read-OnlyStructMembers.dll
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\Read-OnlyStructMembers.pdb
+D:\Self\Programming\C# Programing\Programming\CSharp8\Read-OnlyStructMembers\obj\Debug\net5.0\Read-OnlyStructMembers.genruntimeconfig.cache

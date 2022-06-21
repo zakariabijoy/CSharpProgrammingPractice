@@ -6,6 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Serilog;
 
 namespace WebsiteStatus
 {
@@ -28,7 +29,7 @@ namespace WebsiteStatus
         public override Task StopAsync(CancellationToken cancellationToken)
         {
             client.Dispose();
-            _logger.LogInformation("The service has been stopped...");
+            Log.Information("The service has been stopped...");
             return base.StopAsync(cancellationToken);
         }
 
@@ -40,11 +41,11 @@ namespace WebsiteStatus
 
                 if (result.IsSuccessStatusCode)
                 {
-                    _logger.LogInformation("The website is up. Status code {StatusCode}", result.StatusCode);
+                    Log.Information("The website is up. Status code {StatusCode}", result.StatusCode);
                 }
                 else
                 {
-                    _logger.LogError("The website is down. Status code {StatusCode}", result.StatusCode);
+                    Log.Error("The website is down. Status code {StatusCode}", result.StatusCode);
                 }
 
                 await Task.Delay(5000, stoppingToken);

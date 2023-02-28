@@ -1,0 +1,17 @@
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\bin\Debug\net7.0\RabbitReceiver2.exe
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\bin\Debug\net7.0\RabbitReceiver2.deps.json
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\bin\Debug\net7.0\RabbitReceiver2.runtimeconfig.json
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\bin\Debug\net7.0\RabbitReceiver2.dll
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\bin\Debug\net7.0\RabbitReceiver2.pdb
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.csproj.AssemblyReference.cache
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.AssemblyInfoInputs.cache
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.AssemblyInfo.cs
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.csproj.CopyComplete
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.dll
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\refint\RabbitReceiver2.dll
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.pdb
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\RabbitReceiver2.genruntimeconfig.cache
+D:\Personal\Programming\CSharpProgrammingPractice\RabbitMQDemo\RabbitReceiver2\obj\Debug\net7.0\ref\RabbitReceiver2.dll

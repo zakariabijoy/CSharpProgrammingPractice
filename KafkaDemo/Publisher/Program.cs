@@ -2,6 +2,7 @@
 
 const string topic = "exam-events";
 
+//To ensure that messages (such as "pen up" events) for each individual student are delivered in order using Kafka, you should use the student ID as the message key when producing messages. Kafka guarantees ordering per partition, and all messages with the same key are sent to the same partition, preserving their order.
 string[] studentIds = { "stu001", "stu002", "stu003" };
 string[] events = { "pen_up", "pen_down" };
 

@@ -1,9 +1,9 @@
 ﻿using Confluent.Kafka;
 
-const string topic = "purchases";
+const string topic = "exam-events";
 
-string[] users = { "eabara", "jsmith", "sgarcia", "jbernard", "htanaka", "awalther" };
-string[] items = { "book", "alarm clock", "t-shirts", "gift card", "batteries" };
+string[] studentIds = { "stu001", "stu002", "stu003" };
+string[] events = { "pen_up", "pen_down" };
 
 var config = new ProducerConfig
 {
@@ -16,15 +16,14 @@ var config = new ProducerConfig
 
 using (var producer = new ProducerBuilder<string, string>(config).Build())
 {
-    var numProduced = 0;
     Random rnd = new Random();
     const int numMessages = 10;
     for (int i = 0; i < numMessages; ++i)
     {
-        var user = users[rnd.Next(users.Length)];
-        var item = items[rnd.Next(items.Length)];
+        var studentId = studentIds[rnd.Next(studentIds.Length)];
+        var examEvent = events[rnd.Next(events.Length)];
 
-        producer.Produce(topic, new Message<string, string> { Key = user, Value = item },
+        producer.Produce(topic, new Message<string, string> { Key = studentId, Value = examEvent },
             (deliveryReport) =>
             {
                 if (deliveryReport.Error.Code != ErrorCode.NoError)
@@ -33,12 +32,10 @@ using (var producer = new ProducerBuilder<string, string>(config).Build())
                 }
                 else
                 {
-                    Console.WriteLine($"Produced event to topic {topic}: key = {user,-10} value = {item}");
-                    numProduced += 1;
+                    Console.WriteLine($"Produced event to topic {topic}: studentId = {studentId,-10} event = {examEvent}");
                 }
             });
     }
 
     producer.Flush(TimeSpan.FromSeconds(10));
-    Console.WriteLine($"{numProduced} messages were produced to topic {topic}");
 }
